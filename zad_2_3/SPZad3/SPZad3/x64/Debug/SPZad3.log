@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\perci\Documents\VS-Project\SPZad3\SPZad3\Source.c(243,9): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\perci\Documents\VS-Project\SPZad3\SPZad3\Source.c(328,3): warning C4033: 'ReadListFile' must return a value
+C:\Users\perci\Documents\VS-Project\SPZad3\SPZad3\Source.c(363,1): warning C4715: 'ReadListFile': not all control paths return a value
+  SPZad3.vcxproj -> C:\Users\perci\Documents\VS-Project\SPZad3\x64\Debug\SPZad3.exe
