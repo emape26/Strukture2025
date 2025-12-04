@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB7170-37E7-4C25-A570-819B02CA0A44}|zad6\\zad6.vcxproj|C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CB7170-37E7-4C25-A570-819B02CA0A44}|zad6\\zad6.vcxproj|solutionrelative:zad6\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB7170-37E7-4C25-A570-819B02CA0A44}|zad6\\zad6.vcxproj|C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37CB7170-37E7-4C25-A570-819B02CA0A44}|zad6\\zad6.vcxproj|solutionrelative:zad6\\Racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB7170-37E7-4C25-A570-819B02CA0A44}|zad6\\zad6.vcxproj|C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37CB7170-37E7-4C25-A570-819B02CA0A44}|zad6\\zad6.vcxproj|solutionrelative:zad6\\Racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Source.c",
+              "RelativeDocumentMoniker": "zad6\\Source.c",
+              "ToolTip": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Source.c",
+              "RelativeToolTip": "zad6\\Source.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T21:27:56.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Racun3.txt",
+              "DocumentMoniker": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Racun3.txt",
+              "RelativeDocumentMoniker": "zad6\\Racun3.txt",
+              "ToolTip": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Racun3.txt",
+              "RelativeToolTip": "zad6\\Racun3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-04T13:17:02.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Racun1.txt",
+              "DocumentMoniker": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Racun1.txt",
+              "RelativeDocumentMoniker": "zad6\\Racun1.txt",
+              "ToolTip": "C:\\Users\\perci\\Documents\\VS-Project\\zad6\\zad6\\Racun1.txt",
+              "RelativeToolTip": "zad6\\Racun1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-03T22:23:36.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
