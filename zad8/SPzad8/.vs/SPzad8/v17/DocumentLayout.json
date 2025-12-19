@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perci\\Documents\\VS-Project\\SPzad8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0D4D41-EDF5-45C1-AC36-1A5ED4871F5A}|SPzad8\\SPzad8.vcxproj|C:\\Users\\perci\\Documents\\VS-Project\\SPzad8\\SPzad8\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED0D4D41-EDF5-45C1-AC36-1A5ED4871F5A}|SPzad8\\SPzad8.vcxproj|solutionrelative:SPzad8\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\perci\\Documents\\VS-Project\\SPzad8\\SPzad8\\Source.c",
+              "RelativeDocumentMoniker": "SPzad8\\Source.c",
+              "ToolTip": "C:\\Users\\perci\\Documents\\VS-Project\\SPzad8\\SPzad8\\Source.c",
+              "RelativeToolTip": "SPzad8\\Source.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-18T14:15:05.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
