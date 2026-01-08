@@ -1,0 +1,5 @@
+INORDER nakon (a) - nakon insert:
+85 77 61 53 46 45 41 35 19 13 
+
+INORDER nakon (b) - nakon replace:
+77 0 215 0 429 0 45 105 0 140 
